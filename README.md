@@ -1,2 +1,2 @@
 # ObstacleCourse
-Short obstacle game created with Unity from Udemy course
+Short obstacle game from Udemy course created with Unity.
